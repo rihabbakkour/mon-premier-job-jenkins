@@ -1,6 +1,5 @@
 #hello.py
 print("=" * 40)
-python
 # hello.py (version sans input)
 import sys
 
